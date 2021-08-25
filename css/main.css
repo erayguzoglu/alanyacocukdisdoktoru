@@ -53,7 +53,7 @@ h5 {
 	padding: 10px 15px;
 }
 .btn:hover, .btn:focus {
-	background-color: #ff73f4;
+	background-color: #fff;
 	color: #fff;
 }
 .btn-large {
@@ -349,7 +349,7 @@ display: inline-block;
 	Banner
 -------------------------------------------------------------------------------*/
 .slider-banner h3{
-	color: #ff73f4;
+	color: #000000;
 	font-size: 44px;
 	text-transform: uppercase;
 	font-weight: bolder;
